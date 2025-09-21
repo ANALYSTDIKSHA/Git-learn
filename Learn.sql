@@ -1,1 +1,1 @@
-Create table "let's learn"
+Create table "let's learn now"
